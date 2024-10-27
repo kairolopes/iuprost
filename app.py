@@ -21,6 +21,11 @@ index.add(embeddings)
 # Criar a API Flask
 app = Flask(__name__)
 
+# Adicionando o endpoint para a raiz
+@app.route('/')
+def home():
+    return jsonify({"message": "Bem-vindo à API de Incontinência Urinária!"}), 200
+
 @app.route('/get_answer', methods=['POST'])
 def get_answer():
     user_question = request.json.get("question")
