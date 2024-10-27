@@ -1,4 +1,3 @@
-
 import json
 from flask import Flask, request, jsonify
 from sentence_transformers import SentenceTransformer
@@ -34,6 +33,11 @@ def get_answer():
     response = next(item["resposta"] for item in data["perguntas_respostas"] if item["pergunta"] == matched_question)
 
     return jsonify({"response": response})
+
+# Adicionar endpoint de verificação de integridade
+@app.route('/health', methods=['GET'])
+def health_check():
+    return jsonify({"status": "ok"}), 200
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
