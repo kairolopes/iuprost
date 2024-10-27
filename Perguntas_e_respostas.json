@@ -1,0 +1,169 @@
+{
+  "perguntas_respostas": [
+    {
+      "pergunta": "O que é incontinência urinária (IU)?",
+      "resposta": "Incontinência urinária é toda perda involuntária de urina, ou seja, quando a urina escapa sem que a pessoa perceba."
+    },
+    {
+      "pergunta": "Qual é a estimativa de pessoas afetadas pela incontinência urinária no mundo?",
+      "resposta": "Estima-se que 5% da população mundial sofra de incontinência urinária, o que corresponde a aproximadamente 10 milhões de brasileiros."
+    },
+    {
+      "pergunta": "Quais são os tipos mais comuns de incontinência urinária?",
+      "resposta": "Os tipos mais comuns de incontinência urinária são: Incontinência urinária de esforço, Incontinência de urgência, Incontinência urinária mista, Incontinência urinária por transbordamento e Incontinência urinária funcional."
+    },
+    {
+      "pergunta": "Quais são as principais causas da incontinência urinária?",
+      "resposta": "As causas mais comuns incluem: Câncer de bexiga, Aumento da próstata, Câncer de próstata, Diabetes, Infecções do trato urinário, Gravidez e parto, Cirurgias como histerectomia e prostatectomia, Obesidade, Menopausa e Envelhecimento."
+    },
+    {
+      "pergunta": "O que é incontinência urinária de esforço?",
+      "resposta": "A incontinência urinária de esforço ocorre quando a pessoa perde urina ao realizar atividades que aumentam a pressão sobre o assoalho pélvico, como rir, tossir, espirrar, levantar peso, entre outros."
+    },
+    {
+      "pergunta": "O que é incontinência de urgência?",
+      "resposta": "Incontinência de urgência é uma vontade repentina e incontrolável de urinar, muitas vezes não permitindo que a pessoa chegue ao banheiro a tempo."
+    },
+    {
+      "pergunta": "O que é incontinência urinária mista?",
+      "resposta": "A incontinência urinária mista combina características de mais de um tipo de incontinência, geralmente de esforço e urgência."
+    },
+    {
+      "pergunta": "O que é incontinência urinária por transbordamento?",
+      "resposta": "A incontinência por transbordamento ocorre quando a bexiga permanece sempre cheia ou nunca se esvazia totalmente, resultando em vazamento de urina."
+    },
+    {
+      "pergunta": "O que é incontinência urinária funcional?",
+      "resposta": "Incontinência funcional ocorre devido a problemas físicos ou intelectuais que impedem a pessoa de chegar ao banheiro a tempo, como pacientes acamados ou com dificuldades de locomoção."
+    },
+    {
+      "pergunta": "Como saber se minha bexiga está saudável?",
+      "resposta": "Uma bexiga saudável deve armazenar entre 400 e 600 ml de urina, esvaziar totalmente após urinar, permitir que a pessoa vá ao banheiro de 4 a 8 vezes ao dia, com intervalos de 3 a 4 horas, e não apresentar perda de urina."
+    },
+    {
+      "pergunta": "Quais condições neurológicas podem causar incontinência urinária?",
+      "resposta": "As condições neurológicas incluem lesão medular, mielomeningocele, AVC, esclerose múltipla, doença de Parkinson, entre outras."
+    },
+    {
+      "pergunta": "Quais condições não neurológicas podem causar incontinência urinária?",
+      "resposta": "Entre as condições não neurológicas estão gravidez, parto, cirurgias como histerectomia e prostatectomia, obesidade, infecção urinária, menopausa e envelhecimento."
+    },
+    {
+      "pergunta": "Como prevenir a incontinência urinária?",
+      "resposta": "Para prevenir a incontinência urinária, recomenda-se: Beber 1,5 a 2 litros de água por dia, Evitar bebidas alcoólicas e com cafeína, Manter uma dieta balanceada com frutas, legumes e fibras, Manter o peso ideal, Não fumar, Praticar atividade física regularmente."
+    },
+    {
+      "pergunta": "Como a incontinência urinária afeta a sexualidade?",
+      "resposta": "A incontinência urinária pode ocorrer durante a relação sexual, afetando a qualidade de vida sexual e levando muitas pessoas a evitarem o sexo devido à presença de perda de urina."
+    },
+    {
+      "pergunta": "Como a incontinência urinária afeta homens e mulheres de forma diferente?",
+      "resposta": "As mulheres são mais propensas à incontinência urinária devido à presença do hiato vaginal e retal no assoalho pélvico. Nos homens, a incontinência pode estar relacionada à hiperplasia prostática benigna ou ao câncer de próstata."
+    },
+    {
+      "pergunta": "Quais são os tratamentos comportamentais para a incontinência urinária?",
+      "resposta": "Os tratamentos comportamentais incluem exercícios para fortalecer a musculatura pélvica, técnicas de treinamento da bexiga, perda de peso, dieta alimentar e exercícios de Kegel."
+    },
+    {
+      "pergunta": "Quais são os medicamentos usados no tratamento da incontinência urinária?",
+      "resposta": "Os medicamentos mais usados incluem anticolinérgicos, bloqueadores alfa, antagonistas de receptores beta-3 adrenérgicos, estrogênio tópico e toxina botulínica tipo A."
+    },
+    {
+      "pergunta": "Quais são as opções de tratamento cirúrgico para a incontinência urinária?",
+      "resposta": "As opções cirúrgicas incluem implante de faixas sintéticas (slings) e esfíncteres artificiais para homens e mulheres, além da neuromodulação sacral e aplicação de toxina botulínica em casos de bexiga hiperativa."
+    },
+    {
+      "pergunta": "Como funciona a neuromodulação sacral no tratamento da incontinência?",
+      "resposta": "A neuromodulação sacral envolve a colocação de um estimulador elétrico, semelhante a um marca-passo, para regular os sinais nervosos e ajudar no controle da incontinência urinária."
+    },
+    {
+      "pergunta": "Como a incontinência urinária afeta os idosos?",
+      "resposta": "Nos idosos, a incontinência urinária pode comprometer o convívio social, levando ao isolamento e à depressão. Alterações naturais do envelhecimento, como redução da força muscular e capacidade vesical, também contribuem para o problema."
+    },
+    {
+      "pergunta": "O que é a cirurgia de retirada da próstata?",
+      "resposta": "A cirurgia de retirada da próstata, também chamada de prostatectomia radical, refere-se à remoção completa da próstata e das vesículas seminais, estruturas que ajudam na formação do sêmen."
+    },
+    {
+      "pergunta": "O que pode acontecer depois da cirurgia de retirada da próstata?",
+      "resposta": "Após a cirurgia, o paciente pode experimentar incontinência urinária (perda de urina) e disfunção erétil (dificuldade para endurecer o pênis). Além disso, não haverá mais liberação de líquido ao gozar, mas o paciente continuará tendo orgasmos, caracterizando o 'gozo seco'."
+    },
+    {
+      "pergunta": "O que é incontinência urinária?",
+      "resposta": "Incontinência urinária é a perda involuntária de qualquer quantidade de urina, sem que a pessoa consiga perceber ou controlar."
+    },
+    {
+      "pergunta": "Em quais situações a incontinência urinária pode ocorrer após a cirurgia?",
+      "resposta": "A incontinência urinária pode ocorrer ao caminhar, subir degraus, tossir, rir, ou até mesmo ao respirar, estando parado, em pé ou deitado."
+    },
+    {
+      "pergunta": "Por quanto tempo pode durar a incontinência urinária após a cirurgia?",
+      "resposta": "Após a remoção da sonda urinária, entre uma a três semanas após a cirurgia, a maioria dos homens recupera o controle da bexiga dentro de um ano."
+    },
+    {
+      "pergunta": "Por que a cirurgia pode causar incontinência urinária?",
+      "resposta": "A cirurgia pode alterar estruturas próximas à próstata, como bexiga, uretra, vasos sanguíneos, nervos e músculos da pelve. Essas alterações podem prejudicar o controle da urina."
+    },
+    {
+      "pergunta": "Como ocorre o armazenamento e eliminação da urina no corpo?",
+      "resposta": "Durante o armazenamento, o músculo da bexiga relaxa e o esfíncter urinário se contrai, impedindo a saída da urina. Na eliminação, o músculo da bexiga se contrai e o esfíncter relaxa, permitindo a saída da urina pela uretra."
+    },
+    {
+      "pergunta": "Quais são as opções de tratamento para a incontinência urinária?",
+      "resposta": "Existem três opções principais: 1. Terapia comportamental (mudanças de hábitos de vida e exercícios para os músculos da pelve). 2. Medicamentos. 3. Cirurgia, em casos mais graves."
+    },
+    {
+      "pergunta": "Qual é a primeira escolha de tratamento para a incontinência urinária?",
+      "resposta": "A primeira escolha é a terapia comportamental, que envolve mudanças nos hábitos de vida e exercícios para fortalecer os músculos da pelve."
+    },
+    {
+      "pergunta": "Como o paciente pode monitorar seu progresso no controle da incontinência urinária?",
+      "resposta": "O paciente pode preencher um 'diário da bexiga' por três dias consecutivos, anotando a quantidade de líquidos ingeridos, o volume de urina eliminado, a frequência e as circunstâncias da perda urinária. Essas informações ajudarão o profissional de saúde a ajustar o tratamento."
+    },
+    {
+      "pergunta": "O que é o diário da bexiga?",
+      "resposta": "O diário da bexiga é um registro feito pelo paciente durante três dias seguidos, anotando a quantidade de líquidos ingeridos, o volume de urina eliminada e as circunstâncias em que ocorre a perda de urina. Essas informações ajudam a orientar o tratamento."
+    },
+    {
+      "pergunta": "Como preencher o diário da bexiga?",
+      "resposta": "O paciente deve anotar o horário, o volume urinado, se houve urgência para urinar, se houve perda de urina após a sensação de urgência, se houve perda de urina ao caminhar, tossir ou espirrar, e a quantidade de líquidos ingeridos. Além disso, deve indicar se foi necessário trocar absorventes ou fraldas."
+    },
+    {
+      "pergunta": "Quais são as orientações sobre hábitos alimentares e ingestão de líquidos para o controle da incontinência urinária?",
+      "resposta": "É importante consumir frutas, verduras e legumes diariamente e beber líquidos até duas horas antes de dormir para evitar perda de urina à noite. A quantidade diária de água recomendada é de 35 vezes o peso corporal do paciente em mL."
+    },
+    {
+      "pergunta": "O que deve ser evitado para melhorar o controle da incontinência urinária?",
+      "resposta": "O paciente deve evitar fumar, consumir bebidas alcoólicas, refrigerantes, café, alimentos apimentados, e alimentos ricos em açúcares e gorduras. O consumo de café descafeinado e chás calmantes, como camomila e erva-doce, é permitido."
+    },
+    {
+      "pergunta": "O que são os exercícios para os músculos da pelve?",
+      "resposta": "São exercícios que fortalecem os músculos da pelve, responsáveis pelo controle da urina. Com o fortalecimento desses músculos, o paciente melhora sua capacidade de segurar a urina."
+    },
+    {
+      "pergunta": "Onde estão localizados os músculos da pelve?",
+      "resposta": "Os músculos da pelve estão localizados na região do quadril e sustentam a bexiga, ajudando a controlar a eliminação da urina."
+    },
+    {
+      "pergunta": "Como sentir os músculos da pelve?",
+      "resposta": "Para sentir os músculos da pelve, o paciente deve fazer o mesmo movimento que faz ao tentar segurar a urina, que é conhecido como contração dos músculos da pelve. A contração cria um movimento de apertar e levantar em direção à barriga."
+    },
+    {
+      "pergunta": "Como conferir se o movimento de contração dos músculos da pelve está correto?",
+      "resposta": "O paciente deve deitar-se, colocar uma mão na barriga e a outra na coxa. Ao fazer a contração dos músculos da pelve, nenhuma das mãos deve se mover. Isso indica que o movimento está correto e que os músculos abdominais e das coxas não estão sendo ativados."
+    },
+    {
+      "pergunta": "Como visualizar o movimento correto da contração dos músculos da pelve?",
+      "resposta": "O paciente pode usar um espelho para visualizar a base do pênis e os testículos durante a contração. Ao contrair os músculos da pelve, a base do pênis e os testículos devem se levantar levemente."
+    },
+    {
+      "pergunta": "Quais movimentos o paciente deve evitar durante os exercícios para a pelve?",
+      "resposta": "O paciente deve evitar contrair os músculos abdominais (acima do umbigo), contrair o bumbum, apertar as pernas uma contra a outra e prender a respiração durante os exercícios."
+    },
+    {
+      "pergunta": "Com que frequência o paciente deve realizar os exercícios para os músculos da pelve?",
+      "resposta": "Os exercícios devem ser realizados três vezes ao dia: de manhã, à tarde e à noite, e devem ser praticados diariamente até o fim do programa recomendado."
+    }
+  ]
+}
+
