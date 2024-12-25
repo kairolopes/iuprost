@@ -163,6 +163,346 @@
     {
       "pergunta": "Com que frequência o paciente deve realizar os exercícios para os músculos da pelve?",
       "resposta": "Os exercícios devem ser realizados três vezes ao dia: de manhã, à tarde e à noite, e devem ser praticados diariamente até o fim do programa recomendado."
+    },
+    {
+      "pergunta": "Quantos casos novos de câncer de próstata foram estimados mundialmente em 2020?",
+      "resposta": "Quase 1,4 milhões de novos casos."
+    },
+    {
+      "pergunta": "Qual é o segundo tipo de câncer mais frequente em homens?",
+      "resposta": "Câncer de próstata."
+    },
+    {
+      "pergunta": "Quais são os principais fatores de risco para o câncer de próstata?",
+      "resposta": "Idade, histórico familiar (pai ou irmão), e etnia (maior risco em afro-americanos)."
+    },
+    {
+      "pergunta": "Quais sintomas estão associados ao câncer de próstata em sua fase tardia?",
+      "resposta": "Demora ao urinar, diminuição do jato urinário, disúria, hematúria, insuficiência renal, e, em casos metastáticos, dor óssea severa e formigamento nas pernas."
+    },
+    {
+      "pergunta": "Como é feito o diagnóstico clínico do câncer de próstata?",
+      "resposta": "Por meio do exame retal digital e do exame PSA (Antígenos Específicos da Próstata), seguido de verificação histopatológica em caso de anormalidades."
+    },
+    {
+      "pergunta": "Qual é o tratamento padrão-ouro para o câncer de próstata localizado?",
+      "resposta": "Prostatectomia Radical (PR)."
+    },
+    {
+      "pergunta": "Quais são as complicações mais comuns após a prostatectomia radical?",
+      "resposta": "Incontinência urinária (IU), disfunção erétil, e estenoses uretrais."
+    },
+    {
+      "pergunta": "O que é incontinência urinária (IU)?",
+      "resposta": "Perda involuntária de urina causada por disfunções vesicais, esfincterianas, ou ambas."
+    },
+    {
+      "pergunta": "Qual o percentual de homens que apresentam IU um mês após a prostatectomia?",
+      "resposta": "Cerca de 80%."
+    },
+    {
+      "pergunta": "Quais são os tipos de incontinência urinária?",
+      "resposta": "IU de esforço (IUE), IU de urgência (IUU), e IU mista (IUM)."
+    },
+    {
+      "pergunta": "Como a IU afeta a qualidade de vida dos pacientes?",
+      "resposta": "Pode causar depressão, ansiedade, baixa autoestima, vergonha, limitações sexuais e sociais."
+    },
+    {
+      "pergunta": "Quais são as principais intervenções para tratar a IU?",
+      "resposta": "Cirúrgicas, farmacológicas, e terapias comportamentais."
+    },
+    {
+      "pergunta": "O que a International Continence Society recomenda como primeira opção de tratamento para IU?",
+      "resposta": "Mudanças comportamentais, como treinamento do assoalho pélvico e modificação no estilo de vida."
+    },
+    {
+      "pergunta": "Quais são os principais objetivos dos exercícios do assoalho pélvico?",
+      "resposta": "Fortalecer os músculos pélvicos para melhorar a força, resistência e reabilitar a continência urinária."
+    },
+    {
+      "pergunta": "Como o uso de aplicativos móveis pode ajudar no controle da IU?",
+      "resposta": "Auxiliando na adesão a comportamentos saudáveis, na execução de exercícios pélvicos e no acesso a informações de autocuidado."
+    },
+    {
+      "pergunta": "Por que aplicativos móveis são úteis no tratamento da IU?",
+      "resposta": "Eles facilitam o acesso às informações e estimulam a prática do autocuidado, sem restrições de tempo e espaço."
+    },
+    {
+      "pergunta": "Quais benefícios a tecnologia oferece na saúde?",
+      "resposta": "Melhor comunicação entre pacientes e profissionais, apoio no diagnóstico, disseminação de informações, e continuidade do tratamento."
+    },
+    {
+      "pergunta": "Por que foi desenvolvido o aplicativo IUProst?",
+      "resposta": "Para oferecer uma ferramenta baseada em programa cognitivo comportamental que auxilie no tratamento da IU, com informações acessíveis e fundamentadas em evidências científicas."
+    },
+    {
+      "pergunta": "Quais são os principais objetivos do IUProst?",
+      "resposta": "Melhorar a qualidade de vida dos pacientes e promover ações de autocuidado e adesão ao tratamento."
+    },
+    {
+      "pergunta": "Qual norma de qualidade foi usada para avaliar o aplicativo?",
+      "resposta": "ISO/IEC 25040-2011."
+    },
+    {
+      "pergunta": "Qual foi o tipo de estudo utilizado no desenvolvimento do aplicativo IUProst e por que ele foi classificado como de desenvolvimento tecnológico?",
+      "resposta": "O estudo foi classificado como de desenvolvimento tecnológico porque envolveu a construção de um aplicativo móvel em etapas que englobaram desde a concepção do conteúdo até o teste e entrega final."
+    },
+    {
+      "pergunta": "Qual foi o principal objetivo da primeira etapa do estudo no processo de desenvolvimento do IUProst?",
+      "resposta": "O principal objetivo foi revisar e atualizar o livreto 'Manual de orientações sobre incontinência urinária pós-prostatectomia radical' para garantir que ele estivesse alinhado com as diretrizes mais recentes da International Continence Society."
+    },
+    {
+      "pergunta": "Quais mudanças foram feitas no diário miccional do livreto durante a atualização na primeira etapa do estudo?",
+      "resposta": "O diário miccional foi revisado para incluir orientações mais claras e detalhadas sobre como registrar a ingestão de líquidos, perdas urinárias e outros dados importantes para o acompanhamento do paciente."
+    },
+    {
+      "pergunta": "Quais foram as novas etapas incluídas no treinamento da musculatura pélvica no livreto atualizado?",
+      "resposta": "Novas etapas foram adicionadas ao treinamento da musculatura pélvica, com exercícios mais específicos e progressivos, visando melhorar o fortalecimento muscular de forma prática e acessível para os pacientes."
+    },
+    {
+      "pergunta": "Como o livreto atualizado influenciou o desenvolvimento do aplicativo IUProst?",
+      "resposta": "O conteúdo do livreto atualizado serviu como base científica e informativa para o desenvolvimento das funcionalidades e materiais educativos do aplicativo IUProst."
+    },
+    {
+      "pergunta": "Quantas fases compuseram a segunda etapa do estudo e o que elas abordaram?",
+      "resposta": "A segunda etapa foi composta por cinco fases: comunicação, planejamento, modelagem, construção e entrega, que abordaram desde a definição dos requisitos do aplicativo até a finalização e testes."
+    },
+    {
+      "pergunta": "O que foi realizado durante a fase de comunicação no desenvolvimento do aplicativo IUProst?",
+      "resposta": "Durante a fase de comunicação, os desenvolvedores e pesquisadores identificaram os requisitos necessários para o aplicativo e alinharam os objetivos com as necessidades dos pacientes."
+    },
+    {
+      "pergunta": "Qual foi o objetivo principal da fase de planejamento no desenvolvimento do IUProst?",
+      "resposta": "O objetivo da fase de planejamento foi definir as funcionalidades do aplicativo, o público-alvo e as ferramentas tecnológicas necessárias para sua construção."
+    },
+    {
+      "pergunta": "O que ocorreu na fase de modelagem do desenvolvimento do aplicativo IUProst?",
+      "resposta": "Na fase de modelagem, foram criados layouts iniciais, fluxogramas de navegação e a estrutura básica do aplicativo para guiar o desenvolvimento posterior."
+    },
+    {
+      "pergunta": "Quais foram os principais focos na fase de construção do aplicativo IUProst?",
+      "resposta": "Durante a fase de construção, os desenvolvedores trabalharam na programação do código-fonte, na criação das interfaces gráficas e na integração de vídeos e conteúdos multimídia."
+    },
+    {
+      "pergunta": "O que aconteceu na fase de entrega do IUProst e por que ela foi importante?",
+      "resposta": "Na fase de entrega, o aplicativo foi finalizado, testado e disponibilizado para avaliação por especialistas, garantindo que ele estivesse funcional e de acordo com as necessidades dos usuários."
+    },
+    {
+      "pergunta": "Quantos menus principais foram desenvolvidos no aplicativo IUProst e qual foi a sua finalidade?",
+      "resposta": "Foram desenvolvidos oito menus principais no aplicativo, com o objetivo de organizar o conteúdo e facilitar o acesso dos usuários às diferentes funcionalidades, como exercícios e registros de dados."
+    },
+    {
+      "pergunta": "Que tipos de recursos multimídia foram incluídos no aplicativo IUProst para auxiliar os pacientes?",
+      "resposta": "O aplicativo incluiu oito vídeos educativos para orientar os exercícios e três vídeos com depoimentos de pacientes e familiares, proporcionando informações práticas e motivacionais."
+    },
+    {
+      "pergunta": "Como o diário miccional foi adaptado para a versão digital no aplicativo IUProst?",
+      "resposta": "O diário miccional foi transformado em telas interativas para registro da ingestão de líquidos, volume de urina, perdas urinárias e trocas de absorventes, facilitando o acompanhamento do paciente."
+    },
+    {
+      "pergunta": "Qual foi o objetivo principal do aplicativo IUProst no contexto do tratamento de incontinência urinária?",
+      "resposta": "O objetivo do IUProst foi oferecer uma ferramenta prática e educativa para ajudar os pacientes a aderirem ao tratamento, com orientações claras e recursos interativos."
+    },
+    {
+      "pergunta": "De que forma o IUProst busca melhorar a adesão dos pacientes ao tratamento comportamental?",
+      "resposta": "O IUProst melhora a adesão ao tratamento por meio de lembretes regulares, exercícios guiados com vídeos e informações educativas acessíveis sobre o autocuidado."
+    },
+    {
+      "pergunta": "Quais características de design foram priorizadas na criação do IUProst para atender às necessidades dos pacientes?",
+      "resposta": "O design do IUProst priorizou simplicidade, funcionalidade e acessibilidade, garantindo que o aplicativo fosse fácil de usar, mesmo para pacientes com pouca familiaridade com tecnologia."
+    },
+    {
+      "pergunta": "Por que foi importante utilizar diretrizes internacionais no desenvolvimento do IUProst?",
+      "resposta": "As diretrizes internacionais garantiram que o conteúdo e as funcionalidades do aplicativo fossem baseados em evidências científicas e alinhados às melhores práticas clínicas."
+    },
+    {
+      "pergunta": "Como o aplicativo IUProst foi estruturado para permitir a interação entre pacientes e profissionais de saúde?",
+      "resposta": "O aplicativo inclui um menu chamado 'Fale com o profissional', que permite a interação direta com profissionais de saúde e acesso às redes sociais do aplicativo."
+    },
+    {
+      "pergunta": "Qual foi o papel das fases de desenvolvimento do aplicativo no sucesso do IUProst?",
+      "resposta": "As fases de desenvolvimento permitiram que o IUProst fosse cuidadosamente planejado, modelado, construído e testado, garantindo sua funcionalidade e eficácia para os pacientes."
+    },
+    {
+      "pergunta": "Quantos menus principais o aplicativo IUProst possui e qual é o objetivo geral deles?",
+      "resposta": "O aplicativo possui oito menus principais, com o objetivo de organizar o conteúdo e facilitar o acesso às funcionalidades pelos pacientes."
+    },
+    {
+      "pergunta": "Quais são os nomes dos oito menus principais do IUProst?",
+      "resposta": "\"Meu Tratamento\", \"Minhas Conquistas\", \"Diário Miccional\", \"Meus Exercícios\", \"Fale com o Profissional\", \"Vídeos Educativos\", \"Minha Saúde\" e \"Configurações\"."
+    },
+    {
+      "pergunta": "O que é disponibilizado no menu 'Meu Tratamento' do IUProst?",
+      "resposta": "No menu 'Meu Tratamento', o aplicativo oferece informações sobre exercícios do assoalho pélvico, dicas para autocuidado e orientações sobre a rotina terapêutica."
+    },
+    {
+      "pergunta": "Qual é a funcionalidade do menu 'Minhas Conquistas'?",
+      "resposta": "O menu 'Minhas Conquistas' permite que os pacientes acompanhem seu progresso no tratamento, motivando-os a continuar os exercícios e a aderir às recomendações."
+    },
+    {
+      "pergunta": "Como o diário miccional foi adaptado no aplicativo para facilitar o uso pelos pacientes?",
+      "resposta": "O diário miccional foi transformado em uma interface digital, onde os pacientes podem registrar a ingestão de líquidos, perdas urinárias e volume de urina, além de monitorar o uso de absorventes."
+    },
+    {
+      "pergunta": "O que os pacientes podem fazer no menu 'Fale com o Profissional'?",
+      "resposta": "No menu 'Fale com o Profissional', os pacientes podem interagir diretamente com profissionais de saúde, enviar mensagens e acessar informações de contato."
+    },
+    {
+      "pergunta": "Que tipo de conteúdo é apresentado no menu 'Vídeos Educativos'?",
+      "resposta": "O menu 'Vídeos Educativos' apresenta oito vídeos explicativos que orientam os pacientes sobre exercícios do assoalho pélvico e outros cuidados necessários para a incontinência urinária."
+    },
+    {
+      "pergunta": "Como o menu 'Minha Saúde' contribui para a adesão ao tratamento?",
+      "resposta": "O menu 'Minha Saúde' oferece informações gerais sobre saúde, incluindo orientações sobre alimentação, hidratação e hábitos saudáveis."
+    },
+    {
+      "pergunta": "Quais opções estão disponíveis no menu 'Configurações'?",
+      "resposta": "No menu 'Configurações', os pacientes podem ajustar notificações, personalizar lembretes e gerenciar preferências do aplicativo."
+    },
+    {
+      "pergunta": "Quantos vídeos educativos foram incluídos no aplicativo IUProst e qual é seu propósito?",
+      "resposta": "Foram incluídos oito vídeos educativos, cujo propósito é ensinar os pacientes a realizarem corretamente os exercícios do assoalho pélvico e incentivar o autocuidado."
+    },
+    {
+      "pergunta": "Que tipo de vídeos motivacionais foram adicionados ao IUProst?",
+      "resposta": "Três vídeos com depoimentos de pacientes e familiares foram adicionados para motivar os usuários a continuarem com o tratamento."
+    },
+    {
+      "pergunta": "Como os vídeos educativos são integrados ao restante do aplicativo?",
+      "resposta": "Os vídeos estão acessíveis nos menus relacionados, como 'Vídeos Educativos' e 'Meus Exercícios', para reforçar as instruções e orientar os pacientes durante o uso."
+    },
+    {
+      "pergunta": "Quais tipos de notificações o aplicativo IUProst oferece aos pacientes?",
+      "resposta": "O aplicativo oferece lembretes para a realização de exercícios, ingestão de líquidos e monitoramento do diário miccional."
+    },
+    {
+      "pergunta": "Como as notificações foram projetadas para ajudar na adesão ao tratamento?",
+      "resposta": "As notificações são personalizáveis, permitindo que os pacientes recebam lembretes no horário mais conveniente, incentivando a regularidade do tratamento."
+    },
+    {
+      "pergunta": "Como foi realizada a avaliação de qualidade do aplicativo IUProst?",
+      "resposta": "A avaliação de qualidade foi feita por 16 especialistas utilizando a norma ISO/IEC 25010:2011, que analisa aspectos como funcionalidade, usabilidade e eficiência."
+    },
+    {
+      "pergunta": "Quais características de qualidade foram avaliadas no IUProst segundo a norma ISO/IEC 25010:2011?",
+      "resposta": "Foram avaliadas a adequação funcional, eficiência de desempenho, compatibilidade, usabilidade, confiabilidade e segurança."
+    },
+    {
+      "pergunta": "Quantos especialistas participaram da avaliação do aplicativo e como eles foram divididos?",
+      "resposta": "Participaram 16 especialistas, sendo oito da área de saúde (especialistas em incontinência urinária) e oito da área de tecnologia (desenvolvedores de software)."
+    },
+    {
+      "pergunta": "Qual foi o índice mínimo de concordância estabelecido para a aprovação do aplicativo?",
+      "resposta": "O índice mínimo de concordância estabelecido foi de 70%."
+    },
+    {
+      "pergunta": "Quais foram os resultados gerais da avaliação do IUProst?",
+      "resposta": "Todas as características avaliadas atingiram um índice de concordância superior a 80%, exceto a adequação funcional, que obteve 71%."
+    },
+    {
+      "pergunta": "Qual é o registro do aplicativo IUProst no Instituto Nacional da Propriedade Industrial (INPI)?",
+      "resposta": "O aplicativo foi registrado no INPI com o número BR512022001279-0."
+    },
+    {
+      "pergunta": "Qual é a funcionalidade da tela inicial do aplicativo IUProst?",
+      "resposta": "A tela inicial do aplicativo IUProst apresenta o menu principal com acesso às funcionalidades principais, como 'Meu Tratamento', 'Minhas Conquistas' e 'Diário Miccional'."
+    },
+    {
+      "pergunta": "Como o menu principal foi estruturado para facilitar a navegação do usuário?",
+      "resposta": "O menu principal foi estruturado com ícones intuitivos e opções organizadas de forma clara, garantindo acessibilidade e facilidade de uso."
+    },
+    {
+      "pergunta": "O que o usuário encontra no menu 'Meu Tratamento'?",
+      "resposta": "O menu 'Meu Tratamento' contém informações detalhadas sobre exercícios do assoalho pélvico e dicas de autocuidado para o controle da incontinência urinária."
+    },
+    {
+      "pergunta": "Como as orientações no menu 'Meu Tratamento' foram personalizadas para os usuários?",
+      "resposta": "As orientações foram adaptadas com linguagem simples e exemplos práticos, tornando o conteúdo acessível para pacientes com diferentes níveis de escolaridade."
+    },
+    {
+      "pergunta": "Qual é o objetivo do menu 'Minhas Conquistas'?",
+      "resposta": "O menu 'Minhas Conquistas' tem como objetivo motivar os pacientes ao exibir o progresso alcançado no tratamento, como frequência de exercícios e uso do diário miccional."
+    },
+    {
+      "pergunta": "Como o progresso do paciente é apresentado no menu 'Minhas Conquistas'?",
+      "resposta": "O progresso é exibido por meio de gráficos e indicadores visuais, permitindo que o paciente veja suas melhorias ao longo do tempo."
+    },
+    {
+      "pergunta": "Quais informações o paciente pode registrar no menu 'Diário Miccional'?",
+      "resposta": "O paciente pode registrar a ingestão de líquidos, volume de urina, perdas urinárias, uso de absorventes e outros detalhes relacionados ao seu dia a dia."
+    },
+    {
+      "pergunta": "Como o menu 'Diário Miccional' ajuda no acompanhamento do tratamento?",
+      "resposta": "Ele permite que o paciente monitore seus hábitos e sintomas, fornecendo dados que podem ser compartilhados com profissionais de saúde para ajustes no tratamento."
+    },
+    {
+      "pergunta": "O que é disponibilizado no menu 'Meus Exercícios'?",
+      "resposta": "No menu 'Meus Exercícios', o aplicativo apresenta vídeos demonstrativos e orientações detalhadas sobre os exercícios do assoalho pélvico."
+    },
+    {
+      "pergunta": "Como o menu 'Meus Exercícios' ajuda os pacientes a realizarem as atividades corretamente?",
+      "resposta": "Por meio de vídeos educativos e instruções passo a passo, o menu garante que os pacientes realizem os exercícios com a técnica correta, evitando erros."
+    },
+    {
+      "pergunta": "O que o menu 'Fale com o Profissional' oferece aos usuários?",
+      "resposta": "O menu 'Fale com o Profissional' oferece a possibilidade de interação direta com profissionais de saúde, envio de mensagens e acesso a informações de contato."
+    },
+    {
+      "pergunta": "Por que o menu 'Fale com o Profissional' é importante para o tratamento?",
+      "resposta": "Ele proporciona suporte adicional e permite que o paciente tire dúvidas ou receba orientações de um especialista, melhorando a adesão ao tratamento."
+    },
+    {
+      "pergunta": "Quantos vídeos educativos estão disponíveis no menu 'Vídeos Educativos' e qual é seu foco?",
+      "resposta": "O menu 'Vídeos Educativos' oferece oito vídeos, focados em ensinar exercícios do assoalho pélvico e fornecer orientações gerais sobre o tratamento."
+    },
+    {
+      "pergunta": "Como os vídeos educativos foram organizados no menu?",
+      "resposta": "Os vídeos foram organizados por categorias, facilitando o acesso de acordo com a necessidade do paciente."
+    },
+    {
+      "pergunta": "Quais informações estão disponíveis no menu 'Minha Saúde'?",
+      "resposta": "O menu 'Minha Saúde' contém informações sobre hábitos saudáveis, hidratação, alimentação e outros cuidados que complementam o tratamento."
+    },
+    {
+      "pergunta": "Como o menu 'Minha Saúde' complementa os demais recursos do aplicativo?",
+      "resposta": "Ele fornece informações gerais de saúde que ajudam a melhorar a qualidade de vida do paciente, complementando as funcionalidades específicas para incontinência urinária."
+    },
+    {
+      "pergunta": "Quais opções o paciente encontra no menu 'Configurações'?",
+      "resposta": "No menu 'Configurações', o paciente pode ajustar notificações, definir lembretes personalizados e gerenciar as preferências de uso do aplicativo."
+    },
+    {
+      "pergunta": "Por que a personalização de notificações é importante para os pacientes?",
+      "resposta": "A personalização de notificações permite que os pacientes recebam lembretes nos horários mais convenientes, incentivando a continuidade do tratamento."
+    },
+    {
+      "pergunta": "Como o design do aplicativo IUProst foi pensado para atender às necessidades dos pacientes?",
+      "resposta": "O design foi projetado com foco na simplicidade e acessibilidade, utilizando ícones intuitivos, cores agradáveis e organização lógica para facilitar o uso por pacientes de diferentes perfis."
+    },
+    {
+      "pergunta": "De que forma a organização das telas contribui para a usabilidade do aplicativo?",
+      "resposta": "As telas foram organizadas de forma clara, com navegação intuitiva e menus bem definidos, garantindo uma experiência agradável e eficiente para o usuário."
+    },
+    {
+      "pergunta": "Qual foi o principal objetivo do estudo que resultou no desenvolvimento do aplicativo IUProst?",
+      "resposta": "O principal objetivo foi desenvolver um aplicativo móvel que oferecesse suporte ao tratamento da incontinência urinária pós-prostatectomia radical, promovendo a adesão ao autocuidado e melhorando a qualidade de vida dos pacientes."
+    },
+    {
+      "pergunta": "Quais resultados o estudo alcançou em relação à funcionalidade e usabilidade do IUProst?",
+      "resposta": "O IUProst demonstrou ser funcional e de fácil usabilidade, atendendo às expectativas de especialistas e usuários em termos de acessibilidade, organização e impacto no tratamento."
+    },
+    {
+      "pergunta": "Como o IUProst contribui para a adesão ao tratamento de incontinência urinária?",
+      "resposta": "O aplicativo facilita a adesão ao tratamento por meio de lembretes personalizados, vídeos educativos, orientações práticas e registros digitais, ajudando os pacientes a manterem uma rotina terapêutica regular."
+    },
+    {
+      "pergunta": "Quais foram as limitações identificadas no desenvolvimento do IUProst?",
+      "resposta": "Uma das limitações foi a necessidade de mais testes com usuários finais em ambientes variados, para avaliar a adaptação do aplicativo a diferentes contextos e perfis de pacientes."
+    },
+    {
+      "pergunta": "Quais são as recomendações futuras feitas pelo estudo para aprimorar o aplicativo IUProst?",
+      "resposta": "Recomenda-se ampliar os testes com pacientes, incorporar funcionalidades adicionais baseadas em feedbacks de usuários e explorar novas estratégias tecnológicas para aprimorar ainda mais a eficácia do aplicativo."
     }
   ]
 }
